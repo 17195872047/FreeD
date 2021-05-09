@@ -25,5 +25,10 @@ FREED
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
+#### 自定义接口引用
+1、https://cdn.jsdelivr.net/gh/您的用户名/你的仓库名/文件路径/
+例如：
+https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/
+例如：
+https://cdn.jsdelivr.net/gh/17195872047/FreeD/tv/
 
