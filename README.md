@@ -1,4 +1,5 @@
 # Freed1
+js更新
 
 #### 介绍
 FREED
